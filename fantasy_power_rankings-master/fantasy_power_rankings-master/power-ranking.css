@@ -3,7 +3,7 @@
   position:relative;
   margin-left:auto;
   margin-right:auto;
-  border: 1px solid white;
+  border: 1px solid black;
   border-radius: 3px;
   font:normal 14px verdana;
 }
@@ -97,7 +97,7 @@ th#introductionRow{
   border-radius: 10px;
 }
 .manager-name {
- font-size: 13px;
+ font-size: 14px;
  white-space: nowrap;
  top: -5px;
  position: relative;
@@ -159,7 +159,7 @@ th#introductionRow{
   text-align:center;
 }
 .manager-name-under-team {
-  font-size: 10px;
+  font-size: 14px;
   padding-top: 2px;
   padding-bottom: 2px;
   white-space:nowrap;
