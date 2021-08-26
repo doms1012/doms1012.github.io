@@ -35,6 +35,11 @@ th {
 #powerRanking table th h3{
   margin:0px;
 }
+
+th,td {
+    padding: .5rem;
+  }
+
 tr.rank {
   height: 60px;
   vertical-align: middle;
