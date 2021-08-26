@@ -11,12 +11,13 @@
 	<script src="libraries/FileSaver.min.js"></script>
 	<script type="text/javascript">
 
-		    location.reload(true);
+
 
 
 
 			$ (document).ready (async function () {
 				try {
+				location.reload(true);
 				const tableElement = $('#powerRankingTable tbody:last-child');
 				const outerDiv = $('#powerRanking');
 				const leagueConfig = await $.get ('league_config.json');
