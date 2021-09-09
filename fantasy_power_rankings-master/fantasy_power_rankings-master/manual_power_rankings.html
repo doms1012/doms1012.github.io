@@ -5,7 +5,7 @@
 	<meta http-equiv="cache-control" content="no-cache"> <!-- tells browser not to cache -->
 	<meta http-equiv="expires" content="0"> <!-- says that the cache expires 'now' -->
 	<meta http-equiv="pragma" content="no-cache"> <!-- says not to use cached stuff, if there is any -->
-	<link rel="stylesheet" type="text/css" href="power_ranking2.css">
+	<link rel="stylesheet" type="text/css" href="power_ranking3.css">
 	<link rel="stylesheet" type="text/css" href="screenshot.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	<script src="libraries/html2canvas.min.js"></script>
@@ -22,9 +22,9 @@
 				try {
 				const tableElement = $('#powerRankingTable tbody:last-child');
 				const outerDiv = $('#powerRanking');
-				const leagueConfig = await $.get ('league_config1.json');
-				const currentWeek = await $.get ('current_power_rankings.json');
-				const previousWeek = await $.get ('previous_power_rankings.json');
+				const leagueConfig = await $.get ('league_config2.json');
+				const currentWeek = await $.get ('current_power_rankings1.json');
+				const previousWeek = await $.get ('previous_power_rankings1.json');
 				// Set config items
 				document.getElementById("rankingTitle").innerText = leagueConfig.rankingsTitle;
 				// If there is introductory text, display it
@@ -159,9 +159,11 @@
 			</tr>
 		</table>
 	</div>
+	<br>
+<br>
 
-		<div>
-		<img src="images/week_1.jpg" alt="" style="width:1000px"> />
+		<div id="heatmap">
+		<img src="../../images/week_1.jpg" alt="" style="width:500px "> 
 
 	</div>
 

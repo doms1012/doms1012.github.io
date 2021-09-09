@@ -174,3 +174,8 @@ th#introductionRow{
     margin: 0 auto;
     display: block;
 }
+#heatmap {
+  display: flex;
+  justify-content: center;
+
+}
