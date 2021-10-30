@@ -1,0 +1,105 @@
+
+
+[
+
+
+
+
+      {
+	"teamName": "White Justin Fields",
+	"description": "<a href=images/luke.jpg> Luke chilling with King Henry at the top of the power rankings</a>" , 
+	"record": "6-1",
+	"managerName": "Luke"
+  },  
+
+
+
+    {
+	"teamName": "Red Solo KUPP",
+	"description": "<a href=images/jeff.jpg> Jeff rolling the dice by trading away Saquan </a>" , 
+	"record": "5-2",
+	"managerName": "Jeff"
+  },
+
+     {
+	"teamName": "Lemme Kelce That Pussy",
+	"description": "<a href=images/steve.jpg> Steve trying to trade Randall Cobb after one decent game</a>" , 
+	"record": "5-2",
+	"managerName": "Steven"
+  },
+
+
+
+  	{
+	"teamName": "Corn Julio",
+	"description": "<a href=images/dom.jpg>How close I came to losing this week</a>" , 
+	"record": "5-2",
+	"managerName": "Dom"
+  },
+
+      {
+	"teamName": "The Team From G.U.N.C.L.E",
+	"description": "<a href=images/bob.jpg>Bob looking at Andy's team after winning by 50 points</a>" ,
+	"record": "4-3",
+	"managerName": "Bob"
+  },
+
+      {
+	"teamName": "Playoff Lenny", 
+	"description": "<a href=images/quis.jpg>Quis after losing by 1 yard</a>" , 
+	"record": "3-4",
+	"managerName": "Marquis"
+
+  },
+
+      {
+	"teamName": "Christian Mingle",
+	"description": "<a href=images/quin.jpg>Quin looking at Swift saving his ass</a>" ,
+	"record": "4-3",
+	"managerName": "Marquin"
+  },
+
+
+  {
+	"teamName": "Tim Duncan",
+	"description": "<a href=images/schempp.jpg>Schempp when his whole team is injured and falling apart</a>" ,
+	"record": "3-4",
+	"managerName": "Schempp"
+  },
+
+
+    {
+	"teamName": "Whole Lotta Redzone",
+	"description": "<a href=images/andy.jpg>Andy after starting Allen Robinson once again</a>" ,
+	"record": "3-4",
+	"managerName": "Andy"
+  },  
+
+
+
+    {
+	"teamName": "Touchdown My Pants",
+	"description": "<a href=images/dylan.jpg>Dylan thinking about how he can convince someone to give him an RB1 for Michael Pittman</a>" ,
+	"record": "3-4",
+	"managerName": "Dylan"
+  },
+
+
+    {
+	"teamName": "Tucker? I barely know her",
+	"description": "<a href=images/nick.jpg>Nick after taking another loss</a>" ,
+	"record": "1-6",
+	"managerName": "Nick"
+  },
+
+
+    {
+	"teamName": "Oscar Meyers ",
+	"description": "<a href=images/sam.png> Sam looking at this 0-7 record </a>" , 
+	"record": "0-7",
+	"managerName": "Sam"
+  }
+
+
+
+]
