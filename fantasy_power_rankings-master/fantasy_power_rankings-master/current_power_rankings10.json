@@ -23,7 +23,7 @@
 
      {
 	"teamName": "Lemme Kelce That Pussy",
-	"description": "<a href=images/steve.jpg> Steve trying to trade Randall Cobb after one decent game</a>" , 
+	"description": "<a href=images/steve.png> Steve trying to trade Randall Cobb after one decent game</a>" , 
 	"record": "5-2",
 	"managerName": "Steven"
   },
@@ -39,7 +39,7 @@
 
       {
 	"teamName": "The Team From G.U.N.C.L.E",
-	"description": "<a href=images/bob.jpg>Bob looking at Andy's team after winning by 50 points</a>" ,
+	"description": "<a href=images/bob.png>Bob looking at Andy's team after winning by 50 points</a>" ,
 	"record": "4-3",
 	"managerName": "Bob"
   },
@@ -54,7 +54,7 @@
 
       {
 	"teamName": "Christian Mingle",
-	"description": "<a href=images/quin.jpg>Quin looking at Swift saving his ass</a>" ,
+	"description": "<a href=images/quin.png>Quin looking at Swift saving his ass</a>" ,
 	"record": "4-3",
 	"managerName": "Marquin"
   },
@@ -70,7 +70,7 @@
 
     {
 	"teamName": "Whole Lotta Redzone",
-	"description": "<a href=images/andy.jpg>Andy after starting Allen Robinson once again</a>" ,
+	"description": "<a href=images/andy.png>Andy after starting Allen Robinson once again</a>" ,
 	"record": "3-4",
 	"managerName": "Andy"
   },  
@@ -87,7 +87,7 @@
 
     {
 	"teamName": "Tucker? I barely know her",
-	"description": "<a href=images/nick.jpg>Nick after taking another loss</a>" ,
+	"description": "<a href=images/nick.png>Nick after taking another loss</a>" ,
 	"record": "1-6",
 	"managerName": "Nick"
   },
